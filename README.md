@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://t.me/Fairyzz" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Fairyzz-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://x.com/xxResonancee"><img src="https://img.shields.io/badge/Twitter-@xxFairyzz1337-blue?style=for-the-badge&logo=x" /></a>
   <a href="https://discord.com/users/1092033992288653424"><img src="https://img.shields.io/badge/Discord-Juliaan%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <br />
   <p align="center">
@@ -106,11 +105,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xfairyzz&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfairyzz&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfairyzz&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfairyzz&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zfairyzz&theme=tokyonight" />
 </p>
 
 ###### I'm not so active on GitHub
