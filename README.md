@@ -52,7 +52,7 @@
 * 🛜 Network Monitoring 
 * 🧠 Fullstack Development (Frontend ↔ Backend)
 * 💻 CLI & GUI Tool Development
-* 🐧 Working with Windows (10 & 11), Linux (Mainly Ubuntu, Kali & REMnux)
+* 🐧 Working with Windows (10 & 11), Linux (Mainly Ubuntu)
 
 
 
