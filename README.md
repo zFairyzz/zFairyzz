@@ -5,7 +5,7 @@
 <h3 align="center">🔥 Developer from Germany 🔥</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xfairyzz&label=Profile%20Views&color=blueviolet&style=flat" alt="xfairyzz" />
+  <img src="https://komarev.com/ghpvc/?username=zfairyzz&label=Profile%20Views&color=blueviolet&style=flat" alt="zfairyzz" />
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xfairyzz&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zfairyzz&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfairyzz&layout=compact&theme=tokyonight"/>
 </p>
 
