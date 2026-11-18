@@ -5,7 +5,7 @@
 <h3 align="center">🔥 Developer from Germany 🔥</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zfairyzz&label=Profile%20Views&color=blueviolet&style=flat" alt="zfairyzz" />
+  <img src="https://komarev.com/ghpvc/?username=xfairyzz&label=Profile%20Views&color=blueviolet&style=flat" alt="xfairyzz" />
 </p>
 
 <p align="center">
